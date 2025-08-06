@@ -5,15 +5,15 @@ To-Do List App is a cross-platform mobile application built using Flutter and Da
 The project follows a clean and modular architecture, ensuring scalability and maintainability. It’s designed for personal productivity enhancement and serves as a solid foundation for learning mobile app development with Flutter.
 
 # Features
-Add, edit, and delete tasks
-Mark tasks as completed/incomplete
-View task list in real-time
-Persistent local storage using SharedPreferences
-Clean and responsive UI
+Add, edit, and delete tasks. 
+Mark tasks as completed/incomplete. 
+View task list in real-time. 
+Persistent local storage using SharedPreferences. 
+Clean and responsive UI.
 
 # Tech Stack
-Flutter – UI development
-Dart – Core programming language
+Flutter – UI development. 
+Dart – Core programming language.
 
 
 
